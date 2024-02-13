@@ -1,0 +1,1 @@
+A blogwebsite created in Python with Flask, SQLAlchemy and Jinja2, Allows a user to create, edit and delete posts. Developed in Pycharm. Inspired by Day 67 of 100 Days of Python Code Bootcamp by Angela Yu.
